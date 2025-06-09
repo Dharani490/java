@@ -1,2 +1,2 @@
 # java
-this is the purpouse of trianing in aditya university
+this is the purpouse of training in aditya university
